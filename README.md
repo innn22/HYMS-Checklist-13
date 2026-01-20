@@ -150,7 +150,7 @@
       { key:'lamps',          label:'각종 등화류',        method:'전조ㆍ후미ㆍ방향지시ㆍ경보등의 기능은 정상작동 될 것',                               refImg: '등화류.png' },
       { key:'head_backrest',  label:'헤드가드,<br>백레스트', method:'헤드가드와 백레스트는 정상적으로 설치되고 변형 등의 이상이 없을 것',                 refImg: '헤드가드.png' },
       { key:'extinguisher',   label:'소화기',             method:'소화기(거치대포함)가 설치되어 있을 것, 사용연수가 지나지 않았는지 확인할 것',        refImg: '소화기.jpg' },
-      { key:'extinguisher',   label:'사람',             method:'운전자 여부확인할 것',        refImg: '사람.jpg' }
+      { key:'extinguisher',   label:'사람',             method:'운전자 여부확인할 것',        refImg: '사람.jpg' },
       { key:'etc',            label:'기타',               method:'승강용 발판상태, 타이어 타이거 마크 표시 확인할 것',                              refImg: '타이거.png' }
     ];
 
